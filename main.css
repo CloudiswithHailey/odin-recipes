@@ -1,0 +1,69 @@
+* {
+    color: grey;
+    font-family: "Times New Roman", Arial;
+    box-sizing: border-box;
+
+}
+body {
+    background-color: black;
+    margin: 8px;
+}
+h1 {
+    text-align: center;
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 8px;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    border-style: dashed;
+    border-color: grey;
+    padding: 8px;
+    margin: 0px;
+}
+li {
+    padding: 8px;
+    padding-top: 12px;
+}
+img {
+    width: 371px;
+    height: auto;
+
+}
+.description {
+    text-align: center;
+    padding: 32px;
+    font-size: large;
+}
+div {
+    text-align: center;
+    margin: 32px;
+}
+.eat {
+    color: yellow;
+}
+.live {
+    color: red;
+}
+.be-happy {
+    color: White;
+}
+.outmessage {
+    color: grey;
+    font-size: xx-large;
+    background-color: black;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 100%;
+    
+}
+.h1-name {
+    color: white;
+}
+.dash {
+    color: white;
+    width: 140%;
+}
