@@ -70,3 +70,8 @@ div {
     color: white;
     width: 140%;
 }
+.format {
+    flex: 1 1 auto;
+    border: 3px solid grey;
+    
+}
